@@ -82,7 +82,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Haluk Can Sarıöz**
 *   GitHub: [@HalukCanSarioz](https://github.com/HalukCanSarioz)
 *   Email: halukcansarioz19@gmail.com
-*   LinkedIn: [Haluk Can Sarıöz](linkedin.com/in/halukcansarioz)
-
+*   LinkedIn: [Haluk Can Sarıöz](https://www.linkedin.com/in/halukcansarioz)
 ---
 *If you like this project, please consider giving it a ⭐!*
